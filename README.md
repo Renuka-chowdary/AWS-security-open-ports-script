@@ -13,5 +13,5 @@ This script is checked security group configuration and if there is any port ope
 
         sh gitlab.sh
 
-
-
+The below is the output we get 
+![port](https://user-images.githubusercontent.com/33515288/37864977-00097350-2f9c-11e8-9f02-87832c5f62c1.png)
